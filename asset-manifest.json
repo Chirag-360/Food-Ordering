@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Chirag-360/Food-Ordering/static/css/main.608f2bac.css",
+    "main.js": "/Chirag-360/Food-Ordering/static/js/main.042813c9.js",
+    "static/media/meals.jpg": "/Chirag-360/Food-Ordering/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Chirag-360/Food-Ordering/index.html",
+    "main.608f2bac.css.map": "/Chirag-360/Food-Ordering/static/css/main.608f2bac.css.map",
+    "main.042813c9.js.map": "/Chirag-360/Food-Ordering/static/js/main.042813c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.608f2bac.css",
+    "static/js/main.042813c9.js"
+  ]
+}
